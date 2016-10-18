@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ejercicio 6</string>
+    <string name="text">Texto</string>
+    <string name="fondoVerde">Fondo Verde</string>
+    <string name="fondoNegro">Fondo Negro</string>
+    <string name="fondoRojo">Fondo Rojo</string>
+    <string name="textoAmarillo">Texto Amarillo</string>
+    <string name="textoBlanco">Texto Blanco</string>
+    <string name="textoAzul">Texto Azul</string>
+    <string name="muestra">Mostrar Texto</string>
+</resources>
